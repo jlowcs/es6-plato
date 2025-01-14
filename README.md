@@ -1,9 +1,14 @@
 # es6-plato
 
+> [!WARNING]
+> This is a patched version of https://github.com/the-simian/es6-plato, adding TS support
+>
+> This README is not up to date, use at your own risk
+
 Visualize JavaScript source complexity with plato.
 Based on the older es5 plato, this is a port to `es6` and `eslint`
 
-#The Report
+# The Report
 ![dank-es6-nugs](https://cloud.githubusercontent.com/assets/954596/18904556/3a81efea-8524-11e6-8588-ad8f5a51b001.PNG)
 
 ## Start in 3 steps.

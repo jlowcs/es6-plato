@@ -1,28 +1,25 @@
 {
-  "name": "es6-plato",
+  "name": "@jlowcs/es6-plato",
   "description": "JavaScript source analysis and visualizer",
-  "version": "1.2.4",
-  "homepage": "https://github.com/the-simian/es6-plato",
+  "version": "2.0.0",
+  "homepage": "https://github.com/jlowcs/es6-plato",
   "author": {
-    "name": "Jessse Harlin",
-    "email": "harlinjesse@gmail.com",
-    "url": "http://jesseharlin.net/"
+    "name": "Jessse Harlin / Jerome Louis"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/the-simian/es6-plato"
+    "url": "https://github.com/jlowcs/es6-plato"
   },
   "bugs": {
-    "url": "https://github.com/the-simian/es6-plato/issues"
+    "url": "https://github.com/jlowcs/es6-plato/issues"
   },
-  "bin": "bin/plato",
+  "bin": {
+    "es6-plato": "bin/plato"
+  },
   "license": "MIT",
   "main": "lib/plato",
   "engines": {
     "node": ">= 0.10.0"
-  },
-  "scripts": {
-    "test": "echo 'TODO: Replace Grunt'"
   },
   "devDependencies": {},
   "keywords": [
